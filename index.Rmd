@@ -25,7 +25,7 @@ knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
 #klippy::klippy(position = c('top', 'right'))
 ```
 
-## **Protocolo de monitoramento de populações do ouriço-de-fogo Astropyga sp. usando ciência cidadã**
+## **Protocolo de monitoramento de populações do ouriço-de-fogo *Astropyga* sp. com ajuda da ciência cidadã**
 
 A espécie de ouriço-do-mar *Astropyga magnifica*, também conhecida como
 ouriço-de-fogo, é encontrada desde o Caribe até a região sul do Brasil
