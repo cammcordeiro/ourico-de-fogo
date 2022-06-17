@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
@@ -5,3 +6,6 @@ plugins:
 title: [The title of your site]
 description: [A short description of your site's purpose]
 
+=======
+theme: jekyll-theme-minimal
+>>>>>>> 85ddc8a3f79c4a0318f6c9e3a6ea55f66a0d702e
