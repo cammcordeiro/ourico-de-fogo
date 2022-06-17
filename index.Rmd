@@ -29,7 +29,7 @@ knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
 
 A espécie de ouriço-do-mar *Astropyga magnifica*, também conhecida como
 ouriço-de-fogo, é encontrada desde o Caribe até a região sul do Brasil
-([Hendler et al., 1995]()), logo não se trata de uma espécie exótica.
+([Hendler et al., 1995]()), logo **não há indícios de que seja uma espécie exótica**.
 Esta espécie é considerada rara e com pouca abundância natural nas áreas
 de ocorrência, sendo observada entre 5 e 88 metros de profundidade
 ([Serafy, 1979]()). No entanto, os ouriços-de-fogo têm sido avistados
@@ -37,20 +37,20 @@ por cientistas e mergulhadores com maior frequência no litoral sudeste
 do Brasil desde 2015. O primeiro registro de uma espécie do gênero
 *Astropyga* no Brasil foi feito em 1958 em Ubatuba (SP) ([Tomasi,
 1958]()), sendo raramente observado novamente na região. Os
-ouriços-do-mar tem um papel importante importante na dinâmica dos
+ouriços-do-mar tem um papel importante na dinâmica dos
 ambientes recifais ([Cordeiro et al., 2020]()) e tem uma tendência
 natural a explosões populacionais ([Uthicke et al., 2008]()). Existem
 poucas informações sobre essas espécies de ouriços-do-mar no litoral
-brasileiro, especialmente do gênero Astropyga. Por esse aumento
-populacional recente nas regiões sudeste e sul do Brasil, é necessario
+brasileiro, especialmente do gênero *Astropyga*. Devido a esse aumento
+populacional recente nas regiões sudeste e sul do Brasil, é necessário
 que seja feito um acompanhamento das populações de ouriços-do-mar e seus
 possíveis efeitos nas comunidades recifais. Os ouriços-de-fogo são de
-fácil visualização e identificação por seu padrão de cor (vermelho
-claro-alaranjado a vermelho escuro) e tamanho (7 a 15 cm de diâmetro sem
-espinhos), normalmente são bem maiores do que de outras espécies mais
-comuns, como o ouriço-preto e o ouriço-verde. Assim, esta é uma espécie
+fácil visualização e identificação pelo seu padrão de cor (vermelho
+claro-alaranjado a vermelho escuro) e tamanho (7 a 15 cm de diâmetro sem contar os
+espinhos). Normalmente são bem maiores do que outras espécies mais
+comuns, como o ouriço-preto (*Echinometra lucunter*) e o ouriço-verde (*Lytechinus variegatus*). Assim, esta é uma espécie
 que dificilmente passa despercebida aos olhos dos mergulhadores, o que
-facilita o registros das ocorrência. Esta é a situação ideal para
+facilita o registros de sua ocorrência. Esta é a situação ideal para
 utilizarmos esta espécie-alvo em programas de monitoramento contando com
 a ajuda de cientistas cidadãos. Assim, segue abaixo um protocolo de
 monitoramento que pode ser aplicado por qualquer mergulhador e irá
@@ -60,7 +60,7 @@ ouriços-de-fogo. <br><br>
 ### Caracretísticas do ouriço-de-fogo
 
 -   movimentação rápida em relação a outras espécies de ouriços-do-mar;
--   espinhos longos, aproximadamente do tamanho do corpo (figura 1);
+-   espinhos longos, aproximadamente do mesmo tamanho do corpo (figura 1);
 -   normalmente são encontrados na areia ou na parte mais profunda dos
     costões na interface entre areia e rocha, ou nas rochas próximas ao
     fundo (figura 2);
@@ -104,7 +104,7 @@ ouriços-de-fogo. <br><br>
 
 **Figura 4.** Foto: Bianca Sahn (Arquipélago de Alcatrazes, SP).
 
--   pode apresentar ou não uma pequena bolsa na região superior do corpo
+-   podem apresentar ou não uma pequena bolsa na região superior do corpo
     (figura 4).
 
 ------------------------------------------------------------------------
@@ -115,41 +115,40 @@ Este protocolo pode ser utilizado tanto para ações direcionadas como
 para avistamentos ocasionais. As ações direcionadas são aquelas em que
 os mergulhos são dedicados à procura de ouriços-de-fogo e podem ser
 aplicadas como uma atividade recreativa desafiadora aos mergulhadores
-para aumentar o engajamento e tornar o mergulho mais contemplativo. Os
+para aumentar o engajamento e tornar o mergulho mais emocionante. Os
 avistamentos ocasionais são aqueles em que os ouriços-de-fogo foram
-encontrados pelos mergulhadores durante os mergulhos mas não eram o
-motivo do mergulho. Abaixo, descrevemos como agir e quais
+encontrados pelos mergulhadores durante os mergulhos, mas não eram o
+motivo principal do mergulho. Abaixo, descrevemos como agir e quais
 características anotar quando avistar um ouriço-de-fogo:
 
 1.  **Avistamento ocasional**
 
     1.  Quando encontrar um ou mais ouriços-de-fogo, o que fazer?
 
-        1.  *Não toque ou tente remover os ouriços-de-fogo para evitar
+        1.  *Não toque nem tente remover os ouriços-de-fogo para evitar
             danos aos animais e acidentes com mergulhadores*,
 
         2.  **Anote**:
 
-            1.  profundidade da observação,
+            1.  a profundidade da observação,
 
-            2.  temperatura (se possível),
+            2.  a temperatura (se possível),
 
-            3.  número de ouriços avistados,
+            3.  o número de ouriços-de-fogo avistados,
 
-            4.  tamanho estimado sem contar o tamanho dos espinhos
+            4.  o tamanho estimado, sem contar o tamanho dos espinhos
                 (tente usar algum objeto de tamanho conhecido para
-                calibrar sua estimativa - lembre que as coisas parecem
+                calibrar sua estimativa - lembre-se que as coisas parecem
                 maiores embaixo da água),
 
-            5.  se os ouriços formarem grupos, tente anotar os dados de
-                quantidade, tamanho e profundidade para cada grupo,
+            5.  a quantidade de ouriços, tamanhos e profundidade para cada grupo,                    caso os ouriços-de-fogo formem grupos
 
-            6.  fotografar ou filmar (se possível) mostrando parte do
+            6.  fotografe ou filme (se possível) mostrando parte do
                 ambiente onde o(s) ouriço(s) estava(m),
 
-            7.  tempo total de mergulho (ao finalizar o mergulho),
+            7.  o tempo total de mergulho (ao finalizar o mergulho),
 
-            8.  nome do ponto de mergulho com o máximo de detalhes, por
+            8.  o nome do ponto de mergulho com o máximo de detalhes, por
                 exemplo: 'lado oeste da baía do Farol, Ilha do
                 Arvoredo´.
 
@@ -165,27 +164,27 @@ características anotar quando avistar um ouriço-de-fogo:
 
     2.  A dupla deve nadar sobre a área do costão fazendo uma varredura
         contínua sempre no sentido único. Recomenda-se iniciar na parte
-        mais funda do loca, junto à interface da areia com o costão. Ao
-        se completar um terço da reserva se ar ou do tempo
+        mais funda do local, junto à interface da areia com o costão. Ao
+        se completar um terço da reserva se ar, ou do tempo
         pré-determinado de mergulho, os mergulhadores retornam no
         sentido oposto cobrindo a área acima da área já amostrada;
 
-    3.  Recomenda-se prestar atenção a áreas de buracos, fendas e com
+    3.  Recomenda-se prestar atenção a buracos, fendas e áreas com
         areia;
 
     4.  Quando encontrar um ou mais ouriços-de-fogo, anotar as mesmas
         informações da sessão anterior de avistamento ocasional, ou
-        seja, profundidade, número de indivíduos, temperatura,
-        fotografar etc
+        seja, local, profundidade, número de indivíduos, tamanhos, temperatura,
+        fotografar ou filmar.
 
 <br></br>
 
 Os dados das observações podem ser enviados para
-[cesarcordeiro\@uenf.br](mailto:cesarcordeiro@uenf.br){.email}. Não
-esqueça de indicar o nome de quem realizou a observação e deixar um
-contato para que possamos entrar em contato e dar o crédito aos
-colaboradores do projeto. Os dados das avistagens vão ser incluídos na
-plataforma iNaturalist (<https://www.inaturalist.org/>) e no site do
+[cesarcordeiro@pq.uenf.br](mailto:cesarcordeiro@pq.uenf.br){.email}. Não
+esqueça de indicar o nome de quem realizou a observação e deixar seus dados 
+para que possamos entrar em contato e dar o crédito aos colaboradores do projeto. 
+Os dados das avistagens vão ser incluídos na
+plataforma *iNaturalist* (<https://www.inaturalist.org/>) e no site do
 projeto (<https://cammcordeiro.github.io/ourico-de-fogo>), com os nomes
 e fotos dos colaboradores. O site do projeto irá manter atualizadas as
 informações de dinâmica das populações e novas ocorrências, mantendo
