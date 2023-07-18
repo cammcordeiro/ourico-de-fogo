@@ -57,7 +57,7 @@ monitoramento que pode ser aplicado por qualquer mergulhador e irá
 contribuir muito para compreendermos melhor a dinâmica das populações de
 ouriços-de-fogo. <br><br>
 
-### Caracretísticas do ouriço-de-fogo
+### Características do ouriço-de-fogo
 
 -   movimentação rápida em relação a outras espécies de ouriços-do-mar;
 -   espinhos longos, aproximadamente do mesmo tamanho do corpo (figura 1);
